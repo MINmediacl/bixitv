@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="101556" tvg-name="TV Educa Chile" tvg-logo="https://lh3.googleusercontent.com/-n21PTyDUHcc/XpaNO2WOf4I/AAAAAAAAx4s/NIGFazcG1c8c5-ZwgGHD4YlTT1Nw4vUBQCK8BGAsYHg/s0/2020-04-14.png", TV Educa Chile
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="45126" tvg-name="TVN" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN
-https://us-b4-p-e-az1.cdn.mdstrm.com/live-stream-dai/f1e162e746204817ae9e4a2f3b6b9102/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57a498c4d7b86d600e5461cb/a073945a-b411-469d-ac63-44d91aaaad4e/0.m3u8?uid=8lfXjwlrzKxuazixDTwIhW0h7ffoPtaS&sid=F4wr3Xew49OATM7n7ZSmbOvTXVW32TBs&pid=2vjmZNn1GQAII3Is5uYKqHgyBsNUyEja&ref=https%3A%2F%2Ftoken.tvn.cl%2F&dnt=true&access_token=rc4biVferrvPzYps8dccX3qoY32MDbM87gqXhIVhsKcQ8HK7z2SQDNTIirKK6rXsb8I5CkM5gce&es=cl-v1-c-e-aa1.cdn.mdstrm.com&ote=1604970406934&ot=_xX-5erbwm7i1Drw_CvIeQ&proto=https&pz=cl
-#EXTINF:-1 tvg-id="101555" tvg-name="TVN 2" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", 24 Horas
-https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="84048" tvg-name="TVN 24 Horas" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png", TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45130" tvg-name="TVN 24 Horas 2" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png", TVN 24 Horas 2
+https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45124" tvg-name="Mega" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega
 http://mgiptv.magisapk.com/MEGA-HD/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45122" tvg-name=" CHV" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png",  CHV
