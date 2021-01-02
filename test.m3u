@@ -5,8 +5,8 @@ https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="45130" tvg-name="TVN 24 Horas 2" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png", TVN 24 Horas 2
 https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="45124" tvg-name="Mega" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega
-http://mgiptv.magisapk.com/MEGA-HD/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45124" tvg-name="Tuvalu1" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Tuvalu1
+http://192.168.10.59:8080/tuvalu1
 #EXTINF:-1 tvg-id="45122" tvg-name=" CHV" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png",  CHV
 http://unlimited2-cl.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="96814" tvg-name="Canal 13" tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png", Canal 13
