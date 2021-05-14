@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="" generator-info-url="">
+  <channel id="100">
+    <display-name>iPlay One</display-name>
+  </channel>
+    <channel id="101">
+    <display-name>TVN</display-name>
+  </channel>
+
+  <programme channel="100" start="20210511130000 -0400" stop="20210511153000 -0400">
+    <title lang="es">iPlay One Tarde</title>
+    <desc lang="es"></desc>
+  </programme>
+  <programme channel="101" start="20210512080000 -0400" stop="20210512124500 -0400">
+    <title lang="es">Buenos Dias A Todos</title>
+    <desc lang="es"></desc>
+  </programme>
+  <programme channel="101" start="20210512124500 -0400" stop="20210512130000 -0400">
+    <title lang="es">Franja Politica</title>
+    <desc lang="es"></desc>
+  </programme>
+  <programme channel="101" start="20210512130000 -0400" stop="20210512153000 -0400">
+    <title lang="es">24 Horas Tarde</title>
+    <desc lang="es"></desc>
+  </programme>
+  <programme channel="101" start="20210512153000 -0400" stop="20210512164500 -0400">
+    <title lang="es">Rompecorazon (1994)</title>
+    <desc lang="es"></desc>
+  </programme>  
+  <programme channel="101" start="20210512164500 -0400" stop="20210512174500 -0400">
+    <title lang="es">Romane (2000)</title>
+    <desc lang="es"></desc>
+  </programme>
+  <programme channel="101" start="20210512174500 -0400" stop="20210512194500 -0400">
+    <title lang="es">Carmen Gloria a tu Servicio</title>
+    <desc lang="es"></desc>
+  </programme> 
+  <programme channel="101" start="20210512191500 -0400" stop="20210512200000 -0400">
+    <title lang="es">Noticias 24</title>
+    <desc lang="es"></desc>
+  </programme>   
+</tv>
