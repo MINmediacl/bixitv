@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="BIXI1" tvg-logo="http://bixi.ga/tv/canales/101ch/TVN.png", B UNO
-https://ibixi.ml/001ch
+#EXTINF:-1 tvg-id="1" tvg-name="BIXI1" tvg-logo="http://bixi.ga/tv/canales/101ch/TVN.png", Bixi UNO
+http://192.168.10.44:8090/livestream/bixiuno.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="LOCALTV" tvg-logo="http://bixi.ga/tv/canales/102ch/Mega.png", Local TV
 https://ibixi.ml/002ch
 #EXTINF:-1 tvg-id="3" tvg-name="TVN" tvg-logo="", TVN
