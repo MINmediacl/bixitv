@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="iPlay One" tvg-logo="http://bixi.ga/tv/canales/101ch/TVN.png", TVN
+#EXTINF:-1 tvg-id="1" tvg-name="BIXI1" tvg-logo="http://bixi.ga/tv/canales/101ch/TVN.png", BIXI UNO
 https://ibixi.ml/001ch
-#EXTINF:-1 tvg-id="2" tvg-name="TVN" tvg-logo="http://bixi.ga/tv/canales/102ch/Mega.png", MEGA
+#EXTINF:-1 tvg-id="2" tvg-name="LOCALTV" tvg-logo="http://bixi.ga/tv/canales/102ch/Mega.png", LOCAL TV
 https://ibixi.ml/002ch
