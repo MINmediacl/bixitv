@@ -3,7 +3,7 @@
 http://192.168.10.58:8090/livestream/tin.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="LOCALTV" tvg-logo="", Local TV
 http://192.168.10.58:8090/livestream/localtv.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="TVN" tvg-logo="https://www.m3u.cl/logo/452_TVN.png", TVN
+#EXTINF:-1 tvg-id="3" tvg-name="TVN" tvg-logo="http://192.168.10.58/bixi/logos/TVN.png", TVN
 https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="979" tvg-name="13e" tvg-logo="http://192.168.10.58/bixi/logos/13e.png", 13e | CL
+#EXTINF:-1 tvg-id=4" tvg-name="13e" tvg-logo="http://192.168.10.58/bixi/logos/13e.png", 13e | CL
 https://unlimited1-cl-movistar.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
