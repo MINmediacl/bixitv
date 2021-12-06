@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="BIXI1" group-title=”TV EN VIVO” tvg-logo="" , Bixi UNO
+#EXTINF:-1 tvg-id="1" tvg-name="BIXI1" group-title=”TV EN VIVO” tvg-logo="" , TIN
 https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="2" tvg-name="PRONTO" tvg-logo="", PRONTO
 https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
