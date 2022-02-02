@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="BIXI1" group-title=”TV EN VIVO” tvg-logo="" , TIN
+#EXTINF:-1 tvg-id="1" tvg-name="EL20" group-title=”TV EN VIVO” tvg-logo="" , 
 https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="2" tvg-name="PRONTO" tvg-logo="", PRONTO
+#EXTINF:-1 tvg-id="2" tvg-name="PRONTO" tvg-logo="", Bixi 1
 https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="3" tvg-name="TVN" tvg-logo="http://192.168.10.58/bixi/logos/TVN.png", TVN
 https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
