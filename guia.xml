@@ -62,4 +62,23 @@
       <stereo>stereo</stereo>
     </audio>
   </programme>
+  
+ <programme channel="4" start="20260424203000 -0400" stop="20260424223500 -0400">
+    <title lang="es">CHV Noticias central</title>
+    <desc lang="es">Todas las noticias de Chile y el mundo tratadas con seriedad, rigurosidad, profundidad y objetividad, con los temas que de verdad le interesan a la gente y un punto de vista crítico e independiente.</desc>
+	<category lang="es">News</category>
+	<icon src="https://raw.githubusercontent.com/MINmediacl/bixitvepg/refs/heads/main/CHVNoticiasCentral.jpg"/>
+	<audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+   <programme channel="4" start="20260424223500 -0400" stop="20260425004500 -0400">
+    <title lang="es">Primer plano</title>
+    <desc lang="es">Lo más glamoroso y polémico del mundo del espectáculo nacional e internacional, en el mejor programa de espectáculos.</desc>
+	<category lang="es">Revista</category>
+	<icon src="https://raw.githubusercontent.com/MINmediacl/bixitvepg/refs/heads/main/PrimerPlano.jpg"/>
+	<audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
 </tv>
