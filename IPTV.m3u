@@ -1,13 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="HOME" group-title="TV EN VIVO" tvg-logo="" , INICIO
-https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="2" tvg-name="PRONTO" tvg-logo="", Bixi 1
-https://unlimited2-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="2" tvg-name="PRONTO" tvg-logo="https://raw.githubusercontent.com/MINmediacl/bixitv/refs/heads/main/Bix%20Uno.png", Bixi 1
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="3" tvg-name="TVN" tvg-logo="http://192.168.10.58/bixi/logos/TVN.png", TVN
-https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="4" tvg-name="13e" tvg-logo="http://192.168.10.58/bixi/logos/13e.png", 13e
-https://unlimited1-cl-movistar.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="501" tvg-name="ETB" group-title="Internacional" tvg-logo="https://www.m3u.cl/logo/512_ETB.png", ETB
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="502" tvg-name="RTVE1" group-title="Internacional" tvg-logo="https://www.m3u.cl/logo/513_RTVE1.png", TVE 1
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
