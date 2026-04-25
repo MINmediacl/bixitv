@@ -9,11 +9,11 @@
     <display-name>Bixi</display-name>
   </channel>
 
-  <programme channel="100" start="20260101000000 -0400" stop="20270101000000 -0400">
+  <programme channel="1" start="20260101000000 -0400" stop="20270101000000 -0400">
     <title lang="es">Canal Info</title>
     <desc lang="es"></desc>
   </programme>
-  <programme channel="101" start="20260424213000 -0400" stop="2026042422500 -0400">
+  <programme channel="2" start="20260424213000 -0400" stop="20260424225000 -0400">
     <title lang="es">El Sentido del Humor</title>
     <desc lang="es"></desc>
 	  <rating system="VCHIP">
