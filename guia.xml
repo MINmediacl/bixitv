@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="" generator-info-url="">
+  <channel id="1">
+    <display-name>HOME</display-name>
+  </channel>
+    <channel id="2">
+    <display-name>Bixi</display-name>
+  </channel>
+
+  <programme channel="1" start="20260101000000 -0400" stop="20270101000000 -0400">
+    <title lang="es">Canal Info</title>
+    <desc lang="es"></desc>
+  </programme>
+  <programme channel="2" start="20260424213000 -0400" stop="20260424225000 -0400">
+    <title lang="es">El Sentido del Humor</title>
+    <desc lang="es"></desc>
+	  <rating system="VCHIP">
+      <value>TV-MA</value>
+    </rating>
+	<audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+</tv>
