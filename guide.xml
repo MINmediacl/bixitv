@@ -2,23 +2,87 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv generator-info-name="" generator-info-url="">
-  <channel id="1">
-    <display-name>HOME</display-name>
-  </channel>
-    <channel id="2">
-    <display-name>Bixi</display-name>
-  </channel>
-
+	<channel id="1">
+		<display-name>HOME</display-name>
+	</channel>
+	<channel id="2">
+		<display-name>Bixi</display-name>
+	</channel>
+	<channel id="3">
+		<display-name>Canal 13</display-name>
+	</channel>
+	<channel id="4">
+		<display-name>CHV</display-name>
+	</channel>
+  
   <programme channel="1" start="20260101000000 -0400" stop="20270101000000 -0400">
     <title lang="es">Canal Info</title>
     <desc lang="es"></desc>
   </programme>
+  
   <programme channel="2" start="20260424213000 -0400" stop="20260424225000 -0400">
     <title lang="es">El Sentido del Humor</title>
     <desc lang="es"></desc>
 	  <rating system="VCHIP">
       <value>TV-MA</value>
     </rating>
+	<icon src="https://raw.githubusercontent.com/MINmediacl/bixitvepg/refs/heads/main/ESDH.jpg"/>
+	<audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme channel="2" start="20260424225000 -0400" stop="20260425001000 -0400">
+    <title lang="es">Zootopia 2</title>
+    <desc lang="es"></desc>
+	  <rating system="VCHIP">
+      <value>TV-Y</value>
+    </rating>
+	<icon src=""/>
+	<audio>
+      <stereo>stereo</stereo>
+    </audio>
+	<subtitles type="teletext" />
+  </programme>
+  
+  <programme channel="3" start="20260424210000 -0400" stop="20260424223000 -0400">
+    <title lang="es">Teletrece</title>
+    <desc lang="es">El informativo central de Canal 13 entrega cada noche una mirada panorámica de la actualidad noticiosa de Chile y el mundo, con notas en profundidad y reportajes que dan cuenta del amplio despliegue informativo.</desc>
+	<category lang="es">News</category>
+	<rating system="VCHIP">
+      <value>TV-MA</value>
+    </rating>
+	<icon src="https://raw.githubusercontent.com/MINmediacl/bixitvepg/refs/heads/main/TeleTreceCentrAL.jpg"/>
+	<audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+    <programme channel="3" start="20260424223000 -0400" stop="20260424224000 -0400">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">Información climatológica de Chile</desc>
+	<category lang="es">Clima</category>
+	<rating system="VCHIP">
+      <value>TV-MA</value>
+    </rating>
+	<icon src="https://raw.githubusercontent.com/MINmediacl/bixitvepg/refs/heads/main/ElTiempo13.jpg"/>
+	<audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  
+ <programme channel="4" start="20260424203000 -0400" stop="20260424223500 -0400">
+    <title lang="es">CHV Noticias central</title>
+    <desc lang="es">Todas las noticias de Chile y el mundo tratadas con seriedad, rigurosidad, profundidad y objetividad, con los temas que de verdad le interesan a la gente y un punto de vista crítico e independiente.</desc>
+	<category lang="es">News</category>
+	<icon src="https://raw.githubusercontent.com/MINmediacl/bixitvepg/refs/heads/main/CHVNoticiasCentral.jpg"/>
+	<audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+   <programme channel="4" start="20260424223500 -0400" stop="20260425004500 -0400">
+    <title lang="es">Primer plano</title>
+    <desc lang="es">Lo más glamoroso y polémico del mundo del espectáculo nacional e internacional, en el mejor programa de espectáculos.</desc>
+	<category lang="es">Revista</category>
+	<icon src="https://raw.githubusercontent.com/MINmediacl/bixitvepg/refs/heads/main/PrimerPlano.jpg"/>
 	<audio>
       <stereo>stereo</stereo>
     </audio>
